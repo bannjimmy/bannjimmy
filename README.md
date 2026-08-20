@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://i.postimg.cc/rF1FkcT6/1787205575609.png" width="250">
-
-<div align="center">
 <img src="https://i.postimg.cc/y8RG5YCY/84052beb1f782a0b3f6167e4f8cfa619.gif" width="90">
 
   
