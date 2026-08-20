@@ -20,17 +20,21 @@
 <br><br>
 <p>
  <div align="center"> <img src="https://i.postimg.cc/dVWhbvRJ/c0d9c35aae6e6b7cc2823a03c6cd3237.gif" width="20" height="20" align="middle">
-  Jimmy Hopkins 
+  $\color{#A56B44}{\textsf{𝗝𝗶𝗺𝗺𝘆 𝗛𝗼𝗽𝗸𝗶𝗻𝘀}}$  
 </p>
 
 <p>
   <img src="https://i.postimg.cc/SN68twtW/399f167e600743d148bf009a4786f199.gif" width="20" height="20" align="middle">
-  c+hFreely • Int • ships (idm) 
+  $\color{#A56B44}{\textsf{𝗖+𝗵𝗳𝗿𝗲𝗲𝗹𝘆 / 𝗜𝗻𝘁'𝘄𝟮𝗶}}$ 
 </p>
 
 <p>
   <img src="https://i.postimg.cc/SN68twtW/399f167e600743d148bf009a4786f199.gif" width="20" height="20" align="middle">
-  roleplay/copy → ask
+  $\color{#A56B44}{\textsf{𝗗𝗡𝗜: 𝗰𝗵𝗲𝗰𝗸 𝗺𝘆 𝗺𝗮𝗶𝗻 𝗮𝗰𝗰𝗼𝘂𝗻𝘁}}$ 
+  $\color{#A56B44}{\textsf{𝘀𝘁𝗿𝗮𝘄𝗽𝗮𝗴𝗲 𝗶𝗱𝗸}}$ 
+  <a href="https://github.com/bannysuperman">
+  @bannysuperman
+</a>
 </p>
 
 </td>
