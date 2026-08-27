@@ -28,7 +28,7 @@
 <p>
   <img src="https://i.postimg.cc/SN68twtW/399f167e600743d148bf009a4786f199.gif" width="20" height="20" align="middle">
   $\color{#A56B44}{\textsf{𝗗𝗡𝗜: 𝗰𝗵𝗲𝗰𝗸 𝗺𝘆 𝗺𝗮𝗶𝗻 𝗮𝗰𝗰𝗼𝘂𝗻𝘁}}$ 
-  $\color{#A56B44}{\textsf{𝘀𝘁𝗿𝗮𝘄𝗽𝗮𝗴𝗲 𝗶𝗱𝗸}}$ 
+  $\color{#A56B44}{\textsf{𝗶𝗱𝗸}}$ 
   <a href="https://github.com/bannysuperman">
   @bannysuperman
 </a>
