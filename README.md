@@ -1,6 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:845524,100:brown&height=2&section=header"/>
 
 <div align="center">
+<img src="" width="30">
+</a> 
+<a
+
+<div align="center">
+<img src="https://img.shields.io/badge/Students-1579-845524?labelColor=555555">
+</a> 
+ <a
+
+<div align="center">
+<img src="" width="30">
+</a> 
+<a
+ 
+  <div align="center">
+<img src="https://img.shields.io/badge/allies-7-845524?labelColor=555555"> 
+</a> 
+<a
+
+ <div align="center">
+<img src="" width="30" />
+
+<div align="center">
 <img src="https://i.postimg.cc/hvQLLJyG/1788646263478.png" width="250">
 </div>
 
