@@ -4,7 +4,9 @@
 <img src="https://i.postimg.cc/hvQLLJyG/1788646263478.png" width="250">
 </div>
 
-[✦ ATA](https://supermanbanny.atabook.org)
+<div align="center">
+  
+  [✦ ATA](https://supermanbanny.atabook.org)
 
 <div align="center">
 <img src="https://i.postimg.cc/Y0PXkKP5/1788646244352.png" width="90%">
