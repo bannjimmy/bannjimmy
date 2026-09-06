@@ -24,7 +24,7 @@
 <img src="" width="30" />
 
 <div align="center">
-<img src="https://i.postimg.cc/hvQLLJyG/1788646263478.png" width="250">
+<img src="https://i.postimg.cc/8PZGJtJw/In-Shot-20260906-033726652.png" width="500">
 </div>
 
 <div align="center">
