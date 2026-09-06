@@ -6,7 +6,7 @@
  <a
 
 <div align="center">
-<img src="" width="30">
+<img src="https://i.postimg.cc/VNRppNq4/1788661038555.jpg" width="30">
 </a> 
 <a
  
@@ -24,5 +24,9 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/Y0PXkKP5/1788646244352.png" width="90%">
+
+<div align="center">
+<img src="https://i.postimg.cc/6qDmn4XD/In-Shot-20260906-041656808.png" width="250">
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:845524,100:light_brown&height=2&section=header"/>
