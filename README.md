@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=845524:845524,100:845524&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C58A3A:C58A3A,100:C58A3A&height=2&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rye&size=35&duration=3500&pause=1200&color=C58A3A&center=true&vCenter=true&width=1000&lines=Who's+the+boss%2C+who's+the+daddy+here%3F;THAT'S+RIGHT!+ITS+*ME%21*" />
+</p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Students-1579-845524?labelColor=555555">
+<img src="https://img.shields.io/badge/Students-1579-C58A3A?labelColor=555555">
 </a> 
  <a
 
@@ -11,7 +15,7 @@
 <a
  
   <div align="center">
-<img src="https://img.shields.io/badge/allies-7-845524?labelColor=555555"> 
+<img src="https://img.shields.io/badge/allies-7-C58A3A?labelColor=555555"> 
 </a>
 
 <div align="center">
@@ -33,17 +37,17 @@
 </td>
 
 <td align="center">
-$\color{#845524}{\textsf{All the Credits}}$
- $\color{#845524}{\textsf{to the artist!}}$ 
+$\color{#C58A3A}{\textsf{All the Credits}}$
+ $\color{#C58A3A}{\textsf{to the artist!}}$ 
 </td>
 
 </tr>
 </table>
 
-$\color{#845524}{\textsf{Alt Account for}}$
- $\color{#845524}{\textsf{Jimmy Hopkins}}$
-  $\color{#845524}{\textsf{from bully}}$
+$\color{#C58A3A}{\textsf{Alt Account for}}$
+ $\color{#C58A3A}{\textsf{Jimmy Hopkins}}$
+  $\color{#C58A3A}{\textsf{from bully}}$
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=845524:845524,100:845524&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C58A3A:C58A3A,100:C58A3A&height=2&section=header"/>
