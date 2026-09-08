@@ -40,9 +40,9 @@ $\color{#845524}{\textsf{All the Credits}}$
 </tr>
 </table>
 
-<td align="center">
-$\color{#845524}{\textsf{A}}$
- $\color{#845524}{\textsf{to the artist!}}$  
+$\color{#845524}{\textsf{Alt Account for}}$
+ $\color{#845524}{\textsf{Jimmy Hopkins}}$
+  $\color{#845524}{\textsf{from bully}}$
 
 
 
