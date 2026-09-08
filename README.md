@@ -25,9 +25,20 @@
 <div align="center">
 <img src="https://i.postimg.cc/Y0PXkKP5/1788646244352.png" width="90%">
 
-<div align="center">
-<img src="https://i.postimg.cc/6qDmn4XD/In-Shot-20260906-041656808.png" width="100">
-</a>
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://i.postimg.cc/6qDmn4XD/In-Shot-20260906-041656808.png" width="300" alt="Artwork">
+</td>
+
+<td align="center">
+$\color{#845524}{\textsf{All the Credits}}$
+ $\color{#845524}{\textsf{to the artist!}}$ 
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 <img src="https://i.postimg.cc/BQbSCrG2/ae39735473a26e0edfa6183da6063b0d.jpg" width="250">
