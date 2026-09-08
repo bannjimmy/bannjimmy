@@ -40,8 +40,10 @@ $\color{#845524}{\textsf{All the Credits}}$
 </tr>
 </table>
 
-<div align="center">
-<img src="https://i.postimg.cc/BQbSCrG2/ae39735473a26e0edfa6183da6063b0d.jpg" width="250">
-</a>
+<td align="center">
+$\color{#845524}{\textsf{A}}$
+ $\color{#845524}{\textsf{to the artist!}}$  
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=845524:845524,100:845524&height=2&section=header"/>
