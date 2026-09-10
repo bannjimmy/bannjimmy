@@ -10,7 +10,7 @@
  <a
 
 <div align="center">
-<img src="https://i.postimg.cc/0y14NSZX/In-Shot-20260906-041959122.png" width="30">
+<img src="https://i.postimg.cc/QdMwTZbH/8f641be23030dd75a3408b5544a8be33.gif" width="20">
 </a> 
 <a
  
@@ -19,15 +19,12 @@
 </a>
 
 <div align="center">
-<img src="https://i.postimg.cc/8PZGJtJw/In-Shot-20260906-033726652.png" width="500">
+<img src="https://i.postimg.cc/g0jpm6Qk/In-Shot-20260910-085715834.png" width="500">
 </div>
 
 <div align="center">
   
   [✦ ATA](https://supermanbanny.atabook.org)
-
-<div align="center">
-<img src="https://i.postimg.cc/Y0PXkKP5/1788646244352.png" width="90%">
 
 <table align="center">
 <tr>
