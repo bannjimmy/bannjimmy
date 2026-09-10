@@ -26,6 +26,9 @@
   
   [✦ ATA](https://supermanbanny.atabook.org)
 
+<div align="center">
+<img src="https://i.postimg.cc/NFzPcp9Y/In-Shot-20260910-090715292.png" width="45%">
+
 <table align="center">
 <tr>
 
@@ -34,7 +37,9 @@
 </td>
 
 <td align="center">
-$\color{#C58A3A}{\textsf{All the Credits}}$
+<img src="https://i.postimg.cc/FRfTx0CG/399f167e600743d148bf009a4786f199.gif" width="30%">
+  
+  $\color{#C58A3A}{\textsf{All the Credits}}$
  $\color{#C58A3A}{\textsf{to the artist!}}$ 
 </td>
 
@@ -45,6 +50,7 @@ $\color{#C58A3A}{\textsf{Alt Account for}}$
  $\color{#C58A3A}{\textsf{Jimmy Hopkins}}$
   $\color{#C58A3A}{\textsf{from bully}}$
 
-
+<div align="center">
+<img src="https://i.postimg.cc/fWJGH90k/In-Shot-20260910-091021329.png" width="90%">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C58A3A:C58A3A,100:C58A3A&height=2&section=header"/>
