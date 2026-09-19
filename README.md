@@ -27,7 +27,7 @@
   [✦ ATA](https://supermanbanny.atabook.org)
 
 <div align="center">
-<img src="https://i.postimg.cc/jjcPT4k9/In-Shot-20260919-023820121.png" width="45%">
+<img src="https://i.postimg.cc/7hnCkg9W/In-Shot-20260919-025011372.png" width="45%">
 
 <table align="center">
 <tr>
@@ -51,6 +51,6 @@ $\color{#C58A3A}{\textsf{Alt Account for}}$
   $\color{#C58A3A}{\textsf{from bully}}$
 
 <div align="center">
-<img src="https://i.postimg.cc/13Tkhgdd/ezgif-3128776b6b5df18d.gif" width="90%">
+<img src="https://i.postimg.cc/G2SD8hrw/ezgif-3128776b6b5df18d.gif" width="90%">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C58A3A:C58A3A,100:C58A3A&height=2&section=header"/>
