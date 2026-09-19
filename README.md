@@ -44,11 +44,7 @@
 </td>
 
 </tr>
-</table>
-
-$\color{#C58A3A}{\textsf{Alt Account for}}$
- $\color{#C58A3A}{\textsf{Jimmy Hopkins}}$
-  $\color{#C58A3A}{\textsf{from bully}}$
+</table> 
 
 <div align="center">
 <img src="https://i.postimg.cc/G2SD8hrw/ezgif-3128776b6b5df18d.gif" width="90%">
