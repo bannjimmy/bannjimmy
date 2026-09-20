@@ -47,6 +47,6 @@
 </table> 
 
 <div align="center">
-<img src="https://i.postimg.cc/G2SD8hrw/ezgif-3128776b6b5df18d.gif" width="90%">
+<img src="https://i.postimg.cc/9XPhm2Ry/In-Shot-20260920-085406842.png" width="90%">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C58A3A:C58A3A,100:C58A3A&height=2&section=header"/>
