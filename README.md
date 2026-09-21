@@ -27,7 +27,7 @@
   [✦ ATA](https://supermanbanny.atabook.org)
 
 <div align="center">
-<img src="https://i.postimg.cc/7hnCkg9W/In-Shot-20260919-025011372.png" width="40%">
+<img src="https://i.postimg.cc/7hnCkg9W/In-Shot-20260919-025011372.png" width="35%">
 
 <table align="center">
 <tr>
