@@ -23,7 +23,4 @@
   [✦ 𝖆𝖙𝖆](https://supermanbanny.atabook.org)
   [✦ 𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊](https://bannysupermann.straw.page)
 
-<div align="center">
-<img src="https://i.postimg.cc/7hnCkg9W/In-Shot-20260919-025011372.png" width="35%">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C58A3A:C58A3A,100:C58A3A&height=2&section=header"/>
