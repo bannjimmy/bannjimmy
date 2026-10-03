@@ -15,12 +15,13 @@
 </a>
 
 <div align="center">
-<img src="https://i.postimg.cc/sDXb092w/In-Shot-20260918-070938078.png" width="500">
+<img src="https://i.postimg.cc/GtnRkNgY/In-Shot-20261002-223002240.png" width="500">
 </div>
 
 <div align="center">
   
-  [✦ ATA](https://supermanbanny.atabook.org)
+  [✦ 𝖆𝖙𝖆](https://supermanbanny.atabook.org)
+  [✦ 𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊](https://bannysupermann.straw.page)
 
 <div align="center">
 <img src="https://i.postimg.cc/7hnCkg9W/In-Shot-20260919-025011372.png" width="35%">
