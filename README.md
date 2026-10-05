@@ -15,7 +15,7 @@
 </a>
 
 <div align="center">
-<img src="https://i.postimg.cc/GtnRkNgY/In-Shot-20261002-223002240.png" width="500">
+<img src="https://i.postimg.cc/C50Q2CVd/In-Shot-20261005-030314956.png" width="500">
 </div>
 
 <div align="center">
