@@ -15,7 +15,7 @@
 </a>
 
 <div align="center">
-<img src="https://i.postimg.cc/C50Q2CVd/In-Shot-20261005-030314956.png" width="500">
+<img src="https://i.postimg.cc/Jnn0Z70W/In-Shot-20261005-035008751.png" width="500">
 </div>
 
 <div align="center">
@@ -23,4 +23,3 @@
   [✦ 𝖆𝖙𝖆](https://supermanbanny.atabook.org)
   [✦ 𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊](https://bannysupermann.straw.page)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C58A3A:C58A3A,100:C58A3A&height=2&section=header"/>
