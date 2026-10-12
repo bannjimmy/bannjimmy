@@ -27,6 +27,6 @@
 </p>
 
 <div align="center">
-<img src="https://i.postimg.cc/dtxXFpt0/In-Shot-20261012-025942262.png" width="200">
+<img src="https://i.postimg.cc/dtxXFpt0/In-Shot-20261012-025942262.png" width="100">
 </div>
 
