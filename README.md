@@ -15,7 +15,7 @@
 </a>
 
 <div align="center">
-<img src="https://i.postimg.cc/Jnn0Z70W/In-Shot-20261005-035008751.png" width="500">
+<img src="https://i.postimg.cc/Qt3wP7NV/In-Shot-20261012-024239610.png" width="500">
 </div>
 
   <a href="https://supermanbanny.atabook.org">
@@ -25,4 +25,8 @@
     <img src="https://img.shields.io/badge/★--𝕊𝕥𝕣𝕒𝕨𝕡𝕒𝕘𝕖-C58A3A?style=flat-square&labelColor=0D1117" alt="Strawpage">
   </a>
 </p>
+
+<div align="center">
+<img src="https://i.postimg.cc/dtxXFpt0/In-Shot-20261012-025942262.png" width="200">
+</div>
 
