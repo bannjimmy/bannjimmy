@@ -18,8 +18,11 @@
 <img src="https://i.postimg.cc/Jnn0Z70W/In-Shot-20261005-035008751.png" width="500">
 </div>
 
-<div align="center">
-  
-  [✦ 𝖆𝖙𝖆](https://supermanbanny.atabook.org)
-  [✦ 𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊](https://bannysupermann.straw.page)
+  <a href="https://supermanbanny.atabook.org">
+    <img src="https://img.shields.io/badge/☆--𝔸𝕥𝕒-C58A3A?style=flat-square&labelColor=0D1117" alt="AtaBook">
+  </a>
+  <a href="https://bannysupermann.straw.page">
+    <img src="https://img.shields.io/badge/★--𝕊𝕥𝕣𝕒𝕨𝕡𝕒𝕘𝕖-C58A3A?style=flat-square&labelColor=0D1117" alt="Strawpage">
+  </a>
+</p>
 
