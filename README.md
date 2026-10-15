@@ -15,7 +15,7 @@
 </a>
 
 <div align="center">
-<img src="https://i.postimg.cc/Qt3wP7NV/In-Shot-20261012-024239610.png" width="500">
+<img src="https://i.postimg.cc/Qt3wP7NV/In-Shot-20261012-024239610.png" width="100%">
 </div>
 
   <a href="https://supermanbanny.atabook.org">
